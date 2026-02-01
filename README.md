@@ -3,19 +3,26 @@ It is a basic full stack Project.
 
 In this project I have done
 
-For Frontent
+## For Frontent
 
-HTML, CSS, JavaScript, React
+- HTML
+- CSS
+- JavaScript
+- React
+- bootstrap
 
-For Backend
+## For Backend
 
-RESTfull APIs using Nodejs, express, NPM Packages
+- RESTfull APIs using Nodejs,
+- expressjs,
+- NPM Packages
+- CRUD operations
 
-CRUD operations
+## DataBase
 
-DataBase
+- MongoDB
 
-MongoDB
+## Project Structure
 
 project-root/
 
@@ -51,12 +58,12 @@ project-root/
 
 
 
-Setup Instructions
+## Setup Instructions
 
 
 step 1: Clone the Repository
 
-          git clone https://github.com/your-username/your-repo-name.git
+          git clone https://github.com/PanchalJai/GLOBAL-TREND-Assignment.git
           
           cd your-repo-name
           
